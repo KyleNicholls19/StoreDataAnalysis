@@ -6,3 +6,4 @@ scikit-learn
 pmdarima==2.0.4
 statsmodels
 jupyter
+warnings
